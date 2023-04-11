@@ -3,11 +3,11 @@
 [![ci](https://github.com/kisenaa/template-pnpm/actions/workflows/ci-pnpm.yml/badge.svg?branch=main)](https://github.com/kisenaa/template-pnpm/actions)
 [![codecov.io](https://codecov.io/gh/pchmn/vite-react-ts-ghactions-template/coverage.svg?branch=main)](https://codecov.io/gh/pchmn/vite-react-ts-ghactions-template?branch=master)
 
-#  React v18 , vite, tailwind css, github actions 
+# React v18 , vite, tailwind css, github actions
+
 .
 
 </div>
-
 
 <p align='center'>
   <img src='https://i.imgur.com/KVmyXyo.png' alt='Vital - Vite Starter Template' width='600'/>

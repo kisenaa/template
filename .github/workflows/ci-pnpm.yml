@@ -70,10 +70,9 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: coverage
-          path: coverage/lcov.info
-      
-  coverage:
+          path: src/coverage/lcov.info
 
+  coverage:
     name: Coverage analysis
     needs: buildAndTest
     runs-on: ubuntu-latest
@@ -94,7 +93,7 @@ jobs:
         uses: codecov/codecov-action@v3
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
-          files: lcov.info   
+          files: lcov.info
 
   # Deploy to gh pages
   deploy:
