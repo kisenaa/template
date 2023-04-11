@@ -30,7 +30,7 @@
   },
   "scripts": {
     "start": "vite",
-    "build": "vite build",
+    "build": "tsc && vite build",
     "test": "jest",
     "postinstall": "husky install"
   },
