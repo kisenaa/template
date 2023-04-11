@@ -85,7 +85,7 @@ const features = [
     docs: "https://github.com/conventional-changelog/commitlint",
   },
   {
-    name: "Atomic design",
+    name: "Atomic designs",
     description:
       "We’re not designing pages, we’re designing systems of components.",
     logo: PhoneXMarkIcon,
@@ -110,7 +110,7 @@ const App = (): JSX.Element => {
         </h3>
         <h1 className={styles.headerTitle}>React + TypeScript + Tailwind</h1>
         <p className={styles.headerDescription}>
-          Bootstrap your web projects faster than ever. Comes with:{" "}
+          Bootstrap your web projects fasters than ever. Comes with:{" "}
           <code className={styles.headerDescriptionCode}>CSS-Modules</code>,{" "}
           <code className={styles.headerDescriptionCode}>Jest</code>,{" "}
           <code className={styles.headerDescriptionCode}>Husky</code>,{" "}
