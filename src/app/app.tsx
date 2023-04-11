@@ -21,7 +21,7 @@ import styles from "./app.module.css";
 
 const features = [
   {
-    name: "Vite",
+    name: "Vites",
     description:
       "Faster and leaner development experience for modern web projects.",
     logo: CubeTransparentIcon,
