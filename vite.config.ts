@@ -22,5 +22,14 @@ export default defineConfig((configEnv) => {
           : "[hash:base64:5]",
       },
     },
+    test: {
+      globals: true,
+      environment: "jsdom",
+      root: "./src",
+      setupFiles: "infrastructure/tests/setup-tests.ts",
+      coverage: {
+        reporter: ["html", "lcov"],
+      },
+    },
   };
 });
