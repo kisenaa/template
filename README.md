@@ -4,8 +4,8 @@
 [![codecov.io](https://codecov.io/github/kisenaa/template-pnpm/coverage.svg?branch=main)](https://codecov.io/gh/kisenaa/template-pnpm?branch=master)
 
 # React v18 , vite, tailwind css, github actions
-</div>
 
+</div>
 
 ### Clone to local
 
