@@ -10,7 +10,7 @@
 ### Clone to local
 
 ```bash
-npx degit jvidalv/vital my-vital-app
+npx degit kisenaa/template-pnpm my-vital-app
 cd my-vital-app
 yarn # npm install (for npm) and pnpm install (for pnpm)
 ```
